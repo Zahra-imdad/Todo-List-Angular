@@ -1,0 +1,16 @@
+.strike{
+    text-decoration: line-through;
+    color: red;
+}
+.d-none{
+    display: none;
+}
+.bi-pencil-square,.bi-trash{
+    font-size: 20px;
+}
+.bi-pencil-square:hover{
+    color: blue;
+}
+.bi-trash:hover{
+    color: red;
+}
